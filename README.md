@@ -1,4 +1,4 @@
-# [Website](https://xm9g.github.io/XM9G/)
+# [Website](https://xm9g.github.io/)
 - 👋 Hi, I’m @XM9G
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML & CSS
