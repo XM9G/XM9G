@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>XM9G</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <script src="https://kit.fontawesome.com/19da31ded3.js" crossorigin="anonymous"></script>
 </head>
 
 <style>
@@ -60,24 +61,66 @@ body {
     bottom: 8px;
     right: 16px;
 }
+
+.fa-brands:hover {
+    opacity: 0.7;
+}
+
+.fa-brands {
+    text-decoration: none;
+    color: white;
+    background-color: transparent;
+    text-align: center;
+    font-size: xx-large;
+    padding: 1px 1px;
+}
+
+.button {
+    padding: 1px 1px
+}
+
 </style>
 <body>
     <div class="headingthing"><h1>Hi, I'm XM9G</h1>
         <p>
             That is all you need to know.
         </p>
+
+        <div class="links">
+            <a href="https://www.youtube.com/c/XM9GG" class="fa-brands fa-youtube"></a>
+            <a href="https://github.com/XM9G" class="fa-brands fa-github"></a>
+            <a href="https://xm9g.itch.io" class="fa-brands fa-itch-io"></a>
+            <button onclick="copyXbox()" class="fa-brands fa-xbox"></button>
+            <button onclick="copySteam()" class="fa-brands fa-steam"></button>
+            <button onclick="copyDiscord()" class="fa-brands fa-discord"></button>
+            <script>
+                function copyXbox() {                    
+                    alert("Xbox username: XM9G")
+                }
+                function copySteam() {
+                    alert("Steam Username: XM9G")
+                }
+                function copyDiscord() {
+                    alert("Discord Username: XM9G#1511")
+                }
+            </script>
+        </div>
+
         <div class="counter">
             <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=135796&s=1' border='0' alt='Free Website Hit Counter'></a><br / ></div>
+            
         </div>
+
     </div>
     <div class='counterlink'>
         <small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small>
     </div>
+
         
-    <div class="text">
+    <!-- <div class="text">
         <p>
-            Bye.
-       </p>
-    </div>
+            hi
+        </p>
+    </div> -->
 </body>
 </html>
