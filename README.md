@@ -8,7 +8,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/780303451980038165)](https://discord.com/users/780303451980038165)
 
 [![XM9G's GitHub stats](https://github-readme-stats.vercel.app/api?username=xm9g)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xm9g)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
