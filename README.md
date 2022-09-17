@@ -1,7 +1,7 @@
 # [Website](https://xm9g.github.io/)
 - 👋 Hi, I’m @XM9G
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning  Python at school an HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Discord: XM9G#1511
 
