@@ -1,9 +1,8 @@
 # [Website](https://xm9g.github.io/)
 - 👋 Hi, I’m @XM9G
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  Python at school an HTML & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Discord: XM9G#1511
+- 👀 I’m interested in railways
+- 🌱 I’m currently learning  Python at school and HTML & CSS
+- 📫 How to reach me ... Discord: @xm9g
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/780303451980038165)](https://discord.com/users/780303451980038165)
 
