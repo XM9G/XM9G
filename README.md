@@ -1,4 +1,3 @@
-# [Website](https://xm9g.net)
 - 👋 Hi, I’m @XM9G
 - 👀 I’m interested in railways
 - 🌱 I’m currently learning  Python at school and HTML & CSS
